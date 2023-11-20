@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkWool/to-do-list.git"
+    "url": "git+https://github.com/rajat99260/To-Do.git"
   },
   "keywords": [],
   "author": "DarkWool",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DarkWool/to-do-list/issues"
+    "url": "https://github.com/rajat99260/To-Do/issues"
   },
-  "homepage": "https://github.com/DarkWool/to-do-list#readme",
+  "homepage": "https://github.com/rajat99260/To-Do#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^4.0.0",
